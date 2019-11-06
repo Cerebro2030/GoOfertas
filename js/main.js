@@ -50,7 +50,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657584864"
       }
     ]
   },
@@ -152,7 +152,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657507556"
       }
           
     ]
@@ -173,7 +173,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657581220"
       }
           
     ]
@@ -194,7 +194,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657307091"
       }
           
     ]
@@ -278,7 +278,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657332210"
       }
           
     ]
@@ -299,7 +299,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657218993"
       }
           
     ]
@@ -383,7 +383,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657560737"
       }
           
     ]
@@ -404,7 +404,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657653359"
       }
           
     ]
@@ -425,7 +425,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657665174"
       }
           
     ]
@@ -446,7 +446,7 @@ const comercios = [
       },
       {
         nombre: "whatsapp",
-        url: " "
+        url: "https://wa.me/542657709007"
       }
           
     ]
