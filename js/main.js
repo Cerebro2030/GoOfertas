@@ -604,7 +604,7 @@ for (let index = 0; index < flyers.length; index++) {
   });
 }
 
-const closeButton = document.getElementById("button_modal");
+const closeButton = document.getElementById("button_modal_close");
 closeButton.addEventListener("click", () => {
   document.getElementById("modal_background").style.display = "none";
   removeElements("ContactoItems");
